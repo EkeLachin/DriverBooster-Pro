@@ -1,0 +1,114 @@
+;Below services will not be listed in Non-Windows Services category of Driver Booster config until they are deleted from here. You can also add new services name to this list. 
+;Note: You should backup this file before reinstalling Driver Booster.
+----------------------------------
+antivirservice
+antivirschedulerservice
+avast! antivirus
+avast! mail scanner
+avast! web scanner
+avg9emc
+avg9wd
+drwebfwsvc
+drwebengine
+mfefire
+mcnasvc
+mcoobesv
+mcmpfsvc
+mcproxy
+mcods
+mcmscsvc
+mcafee
+mfevtp
+mcnaiann
+mcshield
+updatesrv
+update server
+vsserv
+cmdagent
+clpsls
+avp
+msmpsvc
+ehttpsrv
+ekrn
+sdauxservice
+sdcoreservice
+nav
+sfctlcom
+tmpfw
+tmproxy
+tmbmserver
+pavfnsvr
+gwmsrv
+psimsvc
+pavsrv
+pavprsrv
+psksvcretail
+panda software controller
+tpsrv
+pctoolsfirewallplus
+svconlinearmor
+oacat
+iswsvc
+acssrv
+pnkbstra
+pnkbstrb
+lbtserv
+nvsvc
+is360service
+imfservice
+v3 service
+a2antimalware
+immunetprotect
+fa_scheduler
+fsdfwd
+fsma
+fsorspclient
+guardx
+avkproxy
+avkwctl
+gdscan
+avkservice
+nspservice
+nspupdateservice
+savadminservice
+sophos autoupdate service
+savservice
+eloggersvc6
+norman njeeves
+npc
+npfsvc32
+nvoy
+nsesvc
+scheduler
+nprosecsvc
+nuaa
+nvcoas
+norman zanda
+advancedsystemcareservice
+avgidsagent
+stereo service
+antivirmailservice
+antivirwebservice
+antivirfirewallservice
+vmtools
+vmware physical disk helper service
+ufad-ws60
+vmauthdservice
+vmnetdhcp
+vmware nat service
+vmusbarbservice
+dphost
+advancedsystemcareservice5
+nanoservicemain
+n360
+avgwd
+sepmasterservice
+smcservice
+snac
+wbiosrvc
+ascantivirussrv
+AdvancedSystemCareService12
+AdvancedSystemCareService13
+AdvancedSystemCareService14
+IMFservice
+

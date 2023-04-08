@@ -1,0 +1,8 @@
+WINWORD.EXE
+notepad.exe
+EXCEL.EXE
+POWERPNT.exe
+MSACCESS.exe
+wps.exe
+et.exe
+wpp.exe
