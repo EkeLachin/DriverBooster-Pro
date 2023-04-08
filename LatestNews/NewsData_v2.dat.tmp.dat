@@ -1,0 +1,12 @@
+[GLOBAL]
+DownloadConfigMD5=
+Url=http://download.iobit.com/appnews/default/db_news.dat
+ContentLength=8077
+DownloadedSize=8077
+PartCount=1
+[PART_0]
+StartOffset=0
+EndOffset=8077
+DataCount=8077
+URL=http://download.iobit.com/appnews/default/db_news.dat
+Done=1
