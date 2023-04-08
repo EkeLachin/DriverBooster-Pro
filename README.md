@@ -12,3 +12,5 @@ IObit Driver Booster will scan your missing drivers, find outdated ones for you 
 ### 2: https://uploady.io/48vchzktha9y
 
 ### 3: https://up.d-ld.net/dbd357eb7a
+
+### ALTERNATİVE LİNK: https://www.fullprogramlarindir.net/all-in-one-runtimes-katilimsiz-indir-4503155.html
